@@ -1,0 +1,68 @@
+:root {
+   
+}
+
+
+header {
+    height: 55px;
+}
+
+h3 {
+    color: #052bff;
+}
+
+
+h6 {
+    color: #059bff;
+}
+
+
+ul{
+    color: #0f0f0f;
+    font-size: 0.7em;
+    list-style: none;w
+}
+
+
+img {
+    align-content: center;
+}
+
+table {
+    border: 5px;
+}
+
+thead {
+    background-color: #3282F6;
+    font-size: 0.8em;
+}
+
+
+tbody {
+    background-color: #73FBFD;
+    font-size: 0.5em;
+}
+
+tbody tr td a {
+    background-color: #73FBFD;
+    font-size: 0.5em;
+}
+
+p {
+    font-size: 0.6em;
+    color: #2107FD;
+}
+
+a {
+    font-size: 0.7em;
+}
+
+#link {
+    font-size: 0.9em;
+}
+
+#image-homepage {
+    border: 1px;
+    height: 120px;
+
+}
